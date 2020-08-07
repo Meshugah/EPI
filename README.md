@@ -7,24 +7,24 @@ My Elements of Programming Interviews Practice page.
 ## Problems
 | Column | Problem  | Attempt  |  
 |:--:|:--:|:--:|
-| C0  | 4.1  | [ ] |
-| C0  | 5.1  | [ ] |
-| C0  | 5.6  | [ ] |
-| C0  | 6.1  | [ ] |
-| C0  | 7.1  | [ ] |
-| C0  | 8.1  | [ ] |
-| C0  | 9.1  | [ ] |
-| C0  | 10.1  | [ ] |
-| C0  | 11.1  | [ ] |
-| C0  | 12.2  | [ ] |
-| C0  | 13.1  | [ ] |
-| C0  | 14.1  | [ ] |
-| C0  | 15.1  | [ ] |
-| C0  | 16.1  | [ ] |
-| C0  | 17.4  | [ ] |
-| C0  | 18.1  | [ ] |
-| C0  | 19.3  | [ ] |
-| C0  | 20.13  | [ ] |
+| C0  | 4.1  | :white_check_mark: |
+| C0  | 5.1  | :white_check_mark: |
+| C0  | 5.6  | :white_check_mark: |
+| C0  | 6.1  | :white_check_mark: |
+| C0  | 7.1  | :white_check_mark: |
+| C0  | 8.1  | :white_check_mark: |
+| C0  | 9.1  | :white_check_mark: |
+| C0  | 10.1  | :white_check_mark: |
+| C0  | 11.1  | :white_check_mark: |
+| C0  | 12.2  | :white_check_mark: |
+| C0  | 13.1  | :white_check_mark: |
+| C0  | 14.1  | :white_check_mark: |
+| C0  | 15.1  | :white_check_mark: |
+| C0  | 16.1  | :white_check_mark: |
+| C0  | 17.4  | :white_check_mark: |
+| C0  | 18.1  | :white_check_mark: |
+| C0  | 19.3  | :white_check_mark: |
+| C0  | 20.13  | :white_check_mark: |
 
 
   
