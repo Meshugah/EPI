@@ -2,7 +2,7 @@
 My Elements of Programming Interviews Practice page. 
 
 ## Schedule
-![alt text](https://ibb.co/cFCWby8)
+![EPI Schedule](https://i.ibb.co/9TVxwp4/image.png)  
 
 ## Problems
 | Column | Problem  | Attempt  |  
