@@ -7,7 +7,6 @@ My Elements of Programming Interviews Practice page.
 ## Problems
 | Column | Problem  | Attempt  |  
 |:--:|:--:|:--:|
-|----|----|----|
 | C0  | 4.1  | [ ] |
 | C0  | 5.1  | [ ] |
 | C0  | 5.6  | [ ] |
