@@ -5,8 +5,9 @@ My Elements of Programming Interviews Practice page.
 ![alt text](https://ibb.co/cFCWby8)
 
 ## Problems
-| Column from the schedule (C0 - C4) | Problem  | Attempt  |  
-|--:|--:|--:|
+| Column | Problem  | Attempt  |  
+|:--:|:--:|:--:|
+|----|----|----|
 | C0  | 4.1  | [ ] |
 | C0  | 5.1  | [ ] |
 | C0  | 5.6  | [ ] |
